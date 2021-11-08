@@ -39,7 +39,7 @@ Given below are my contributions to the project.
         * Added documentation for the features `help`, `attribute summary`, `add`, `edit`, `bulk_tag` and `command summary`: [\#80](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/80), [\#182](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/182), [\#184](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/184), [\#188](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/188), [\#191](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/191)
         * Replaced old images to reflect the new Image for help command
     * Developer Guide:
-        * Added implementation details of the `add`, `edit` and `bulk_tag` feature: [\#188](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/188)
+        * Added implementation details of the `add`, `edit` and `bulk_tag` feature: [\#188](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/188), [\#198](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/198), [\#204](https://github.com/AY2122S1-CS2103-T16-2/tp/pull/204)
 
 * **Community**:
     * Reported bugs and suggestions for other teams in the class (examples: [Bugs Identified](https://github.com/AY2122S1-CS2103T-W13-3/tp/issues?q=is%3Aissue+is%3Aclosed+siddharth))
